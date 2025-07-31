@@ -1,19 +1,7 @@
 # Hi there 👋
-<h2 align="left">Hi! I'm Blesson Thomas Abraham</h2>
+<h2 align="left"> I'm Blesson Thomas Abraham</h2>
 <h3 align="left">Computer Science Student | AI & Full Stack Developer</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blesson-thomas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blesson-thomas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
 
 ### 🎓 Education
 **Amal Jyothi College of Engineering, Kerala**  
@@ -25,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -57,15 +45,14 @@ Published at NACORE 2025 (March 2025)
 - Responsive frontend interface
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blesson-thomas-a-749418218)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:blesson.a.thomas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/blesson-thomas)
+
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/blesson-thomas/blesson-thomas/output/snake.svg" alt="Snake animation" />
 
 ###
 <!--
